@@ -30,8 +30,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ContentsquareCore",
-            url: "https://github.com/ContentSquare/apple-core-sdk/releases/download/0.2.5/package.zip",
-            checksum: "0689bcb46193de3e259d060271459656f8a357b223b6ef314b04263b6740367b"
+            url: "https://github.com/ContentSquare/apple-core-sdk/releases/download/0.2.6-alpha.5/package.zip",
+            checksum: "5703a2323afe7977917cd8176302a763aecc852444694dc2b5ac2a8db671cf38"
     )
     ],
     swiftLanguageVersions: [.v5]
