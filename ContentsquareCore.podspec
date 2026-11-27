@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = 'ContentsquareCore'
-    s.version = '0.2.5'
+    s.version = '0.2.6-alpha.4'
     s.summary = 'Contentsquare Core SDK'
     s.homepage = 'https://docs.contentsquare.com/ios'
     s.author = { 'Contentsquare' => 'contact@contentsquare.com' }
